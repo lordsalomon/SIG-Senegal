@@ -1,0 +1,96 @@
+HID,TYPE,DIAMETRE,X,Y,ADRESSE,REPERES,ETAT,DEPARTEMENT,PAYS
+1,Bouche incendie  ,100 mm,238265,1623136,Rue Parchappe Ex huart ,sous immeuble FAYCAL,Fonctionnel,Dakar,Senegal
+2,Bouche incendie  ,100 mm,238189,1623023,Rue Carnot ,hauteur hôtel Pullman (ex Teranga),Fonctionnel,Dakar,Senegal
+3,Bouche incendie  ,100 mm,237405,1622897,Rue Félix Faure X Mass DIOKHANE ,hauteur DAF/MINT,Fonctionnel,Dakar,Senegal
+4,Bouche incendie  ,100 mm,237257,1622743,Rue René NDIAYE ,hauteur école Douane face Ministère des Finances,Fonctionnel,Dakar,Senegal
+5,Bouche incendie  ,100 mm,237394,1622476,Avenue Nelson MANDELA ,hauteur Assemblée Nationale face  IFAN,Fonctionnel,Dakar,Senegal
+6,Bouche incendie  ,100 mm,237806,1623160,Rue Mouhamed 05 X George Pompidou ,hauteur restaurant Ali Baba,Fonctionnel,Dakar,Senegal
+7,Bouche incendie  ,100 mm,237433,1622081,Avenue des Diambars ,"hauteur cité des officiers face immeuble rose, Rue Marshal",Fonctionnel,Dakar,Senegal
+8,Bouche incendie  ,100 mm,237521,1624304,Avenue Lamine GUEYE ,hauteur du Rail  en face Intendance,Fonctionnel,Dakar,Senegal
+9,Bouche incendie  ,100 mm,237514,1622252,Avenue Pasteur ,hauteur Ambassade Allemagne,Fonctionnel,Dakar,Senegal
+10,Bouche incendie  ,100 mm,237530,1622264,Avenue Pasteur ,hauteur Ambassade Allemagne,Fonctionnel,Dakar,Senegal
+11,Poteau incendie ,2 X60 / 100 mm,238298,1623364,Rue de Thann 15 Boulevard Djily MBAYE ,immeuble Kheweul en face saveur d’Asie ASCOM (PI) 02  (privée),Fonctionnel,Dakar,Senegal
+12,Poteau incendie ,2 X60 / 100 mm,238317,1623378,Rue de Thann 15 Boulevard Djily MBAYE ,immeuble Kheweul en face saveur d’Asie ASCOM (PI) 02  (privée),Fonctionnel,Dakar,Senegal
+13,Bouche incendie  ,100 mm,237784,1627382,Route de Rufisque,Hauteur pharmacie (potou) face S.O.A bois,Fonctionnel,Dakar,Senegal
+14,Bouche incendie  ,100 mm,238599,1626834,Rue HB-176 Hann bel air cite ISRA 2 ,hauteur centre de recherche Bel Air,Fonctionnel,Dakar,Senegal
+15,Bouche incendie  ,100 mm,238854,1631170,HLM Hann Mariste 1 Rue HB-419, tout près école franco Arabe IBN Abass SALL maison 212 non loin immeuble Lionne F,Fonctionnel,Dakar,Senegal
+16,Bouche incendie  ,100 mm,238790,1631297,Rue HB-328 HLM Hann Mariste N 48  ,en face immeuble Lionne Batimât A,Fonctionnel,Dakar,Senegal
+17,Bouche incendie  ,100 mm,237932,1630313,Hann Mariste lotissement G N 75 rue HB-294, en face immeuble Rose intersection,Fonctionnel,Dakar,Senegal
+18,Bouche incendie  ,100 mm,238394,1631029,Rue HB-393 Hann mariste ,en face ECOBANK route principal près Plateau Médical,Fonctionnel,Dakar,Senegal
+19,Bouche incendie  ,100 mm,238068,1630718,Rue HB-393 Hann Mariste ,en face SENELEC hauteur lavage automobile,Fonctionnel,Dakar,Senegal
+20,Bouche incendie  ,100 mm,238523,1630339,HLM Hann Mariste 1 Villa Y1 ,en face la Saint- Louisienne PRO (blanchisserie),Fonctionnel,Dakar,Senegal
+74,Bouche incendie  ,100 mm,235480,1628444,Sicap Liberté 2 derrière mosquée,,Fonctionnel,Dakar,Senegal
+75,Bouche incendie  ,100 mm,236630,1627882,Rue 13 ,à 20m avant église Saint Maurice d’Angers,Fonctionnel,Dakar,Senegal
+76,Bouche incendie  ,100 mm,236545,1627169,Avenue Cheikh Ahmadou Bamba Mbacke HLM 6 villa 2591, coté ECOBANK,Fonctionnel,Dakar,Senegal
+77,Bouche incendie  ,100 mm,236999,1627169,Rue HLM-272 HLM 6 ,en face centre socio culturel des HLM,Fonctionnel,Dakar,Senegal
+78,Bouche incendie  ,100 mm,236399,1627208,Rue Serigne Fallou Mbacke (BIS-45) Usine béne tally ,en face mosquée toucouleur,Fonctionnel,Dakar,Senegal
+79,Bouche incendie  ,100 mm,234848,1626234,Rond point de l'Œuf ,Point E devanture portail piscine olympique,Fonctionnel,Dakar,Senegal
+80,Bouche incendie  ,100 mm,235584,1624409,Marché Gueule Tapée en face arrêt minibus.,,Fonctionnel,Dakar,Senegal
+21,Bouche incendie  ,100 mm,238280,1623094,Rue Amadou Assane NDOYE  X huart ,derrière  immeuble FAYCAL,Non Fonctionnel,Dakar,Senegal
+22,Poteau incendie  ,100 mm,238155,1623017,Rue Carnot ,hauteur hôtel Pullman,Non Fonctionnel,Dakar,Senegal
+23,Poteau incendie  ,100 mm,238141,1622955,Rue Carnot ,hauteur hôtel Pullman,Non Fonctionnel,Dakar,Senegal
+24,Bouche incendie  ,100 mm,237825,1623006,Rue Mouhamed 05 X Carnot ,hauteur centre culture français,Non Fonctionnel,Dakar,Senegal
+25,Bouche incendie  ,100 mm,237725,1623067,Rue Moussé DIOP X Amadou Assane NDOYE ,en face centre culturel Français,Non Fonctionnel,Dakar,Senegal
+26,Bouche incendie  ,100 mm,237547,1622837,Rue Jules Ferry X Lamine GUEYE, hauteur hotel Al fifa,Non Fonctionnel,Dakar,Senegal
+27,Bouche incendie  ,100 mm,237308,1623002,Avenue Jean Jaures, hauteur Ambassade Russie face direction ASECNA,Non Fonctionnel,Dakar,Senegal
+28,Bouche incendie  ,100 mm,237939,1621322,Avenue Pasteur ,hauteur ancien Palais de Justice,Non Fonctionnel,Dakar,Senegal
+29,Bouche incendie  ,100 mm,237775,1621621,Avenue Pasteur ,en face Institut Pasteur,Non Fonctionnel,Dakar,Senegal
+30,Bouche incendie  ,100 mm,237160,1623376,Avenue Jean Jaures ,en face cinéma El Malick (Centre commerciale),Non Fonctionnel,Dakar,Senegal
+31,Bouche incendie  ,100 mm,237500,1623403,Avenue Lamine GUEYE rue Abdou Karim Bourgi ,face pharmacie Gambetta,Non Fonctionnel,Dakar,Senegal
+32,Bouche incendie  ,100 mm,237493,1623290,Avenue Lamine GUEYE rue Sandiniery,,Non Fonctionnel,Dakar,Senegal
+33,Bouche incendie  ,100 mm,237503,1623840,Avenue Lamine GUEYE X Faidherbe ,en face station Shell,Non Fonctionnel,Dakar,Senegal
+34,Bouche incendie  ,100 mm,237486,1624222,Avenue Lamine GUEYE ,hauteur hôtel Pacha en face Intendance,Non Fonctionnel,Dakar,Senegal
+35,Poteau incendie  ,100 mm,238475,1623337,Rue Braconnier X Descemet Marche Kermel,,Non Fonctionnel,Dakar,Senegal
+36,Poteau incendie  ,100 mm,238455,1623307,Rue Parent X Descemet Marche Kermel,,Non Fonctionnel,Dakar,Senegal
+37,Poteau incendie  ,100 mm,238411,1623323,Rue  Parent X  Dagorne  Marche Kermel,,Non Fonctionnel,Dakar,Senegal
+38,Bouche incendie  ,100 mm,237278,1624573,Felix EBOUE ,en face SOCOSAC,Non Fonctionnel,Dakar,Senegal
+39,Bouche incendie  ,100 mm,236075,1623914,Rue 06 angle 07,,Non Fonctionnel,Dakar,Senegal
+40,Bouche incendie  ,100 mm,235951,1624281,Rue 10 angle 09,,Non Fonctionnel,Dakar,Senegal
+41,Bouche incendie  ,100 mm,235716,1624266,Rue 06 angle 25,,Non Fonctionnel,Dakar,Senegal
+42,Bouche incendie  ,100 mm,235849,1624164,Rue 06 angle 19,,Non Fonctionnel,Dakar,Senegal
+43,Bouche incendie  ,100 mm,235828,1624401,Rue 10 angle Blaise DIAGNE,,Non Fonctionnel,Dakar,Senegal
+44,Bouche incendie  ,100 mm,236024,1624204,Rue 10 angle 15,,Non Fonctionnel,Dakar,Senegal
+45,Bouche incendie  ,100 mm,236332,1624898,Rue 22 angle 25,,Non Fonctionnel,Dakar,Senegal
+46,Bouche incendie  ,100 mm,236204,1624279,Rue 13 angle 16,,Non Fonctionnel,Dakar,Senegal
+47,Bouche incendie  ,100 mm,235776,1623874,Rue 13 angle corniche ,,Non Fonctionnel,Dakar,Senegal
+48,Bouche incendie  ,100 mm,236077,1624090,Rue 08 angle 11,,Non Fonctionnel,Dakar,Senegal
+49,Bouche incendie  ,100 mm,236429,1624684,Rue 22 angle 17,,Non Fonctionnel,Dakar,Senegal
+50,Bouche incendie  ,100 mm,236223,1624917,Rue 22 angle 29,,Non Fonctionnel,Dakar,Senegal
+51,Bouche incendie  ,100 mm,236256,1624883,Rue 22 angle 27,,Non Fonctionnel,Dakar,Senegal
+52,Bouche incendie  ,100 mm,235396,1624349,Rue 51 angle 60,,Non Fonctionnel,Dakar,Senegal
+53,Bouche incendie  ,100 mm,236427,1624059,Rue 01 angle 16,,Non Fonctionnel,Dakar,Senegal
+54,Bouche incendie  ,100 mm,236160,1624158,Rue 11 angle 12,,Non Fonctionnel,Dakar,Senegal
+55,Bouche incendie  ,100 mm,236345,1623973,Rue 1 angle 12,,Non Fonctionnel,Dakar,Senegal
+56,Bouche incendie  ,100 mm,235410,1624333,Rue 55 angle marché Gueule tapée,,Non Fonctionnel,Dakar,Senegal
+57,Bouche incendie  ,100 mm,236244,1624225,Rue 11 angle 16,,Non Fonctionnel,Dakar,Senegal
+58,Bouche incendie  ,100 mm,236850,1624297,Avenue Malick Sy ,hauteur RTS,Non Fonctionnel,Dakar,Senegal
+59,Bouche incendie  ,100 mm,236475,1624512,Rue 20 angle 11 Médina ,,Non Fonctionnel,Dakar,Senegal
+60,Bouche incendie  ,100 mm,236989,1624157,Avenue Malick SY  ,en face Grand Mosquée,Non Fonctionnel,Dakar,Senegal
+61,Bouche incendie  ,100 mm,237849,1623435,Abdou Karim BOURGI angle Wagane DIOUF ,,Non Fonctionnel,Dakar,Senegal
+62,Bouche incendie  ,100 mm,237620,1626738,SOA bois ,en face Notrant,Non Fonctionnel,Dakar,Senegal
+63,Bouche incendie  ,100 mm,237562,1626054,SOA bois ,en Seulkaw auto,Non Fonctionnel,Dakar,Senegal
+64,Bouche incendie  ,100 mm,236730,1626770,Boule douane (Cite Douane),en face  superette Serigne Fallou,Non Fonctionnel,Dakar,Senegal
+65,Bouche incendie  ,100 mm,236030,1626204,Fass casier en face immeuble Boucounta ,hauteur Banque Islamique du Sénégal,Non Fonctionnel,Dakar,Senegal
+66,Poteau incendie ,65 X65 /100 mm,236222,1626139,Lycée John Kennedy , en face Bâtiment C,Non Fonctionnel,Dakar,Senegal
+67,Poteau incendie ,66 X65 /100 mm,236290,1626222,Lycée John Kennedy ,en face Bâtiment B,Non Fonctionnel,Dakar,Senegal
+68,Poteau incendie ,100 mm,241564,1623135,Rue hesse,,Fonctionnel,Dakar,Senegal
+69,Poteau incendie ,100 mm,241738,1622965,Rue du Port ,en face porte du jardin,Fonctionnel,Dakar,Senegal
+70,Poteau incendie ,100 mm,241819,1622886,Rue de la compagnie,,Fonctionnel,Dakar,Senegal
+71,Poteau incendie ,100 mm,241685,1622855,Rue du Castel ,hauteur église,Non Fonctionnel,Dakar,Senegal
+72,Poteau incendie ,100 mm,241550,1623041,Rue Saint Joseph,,Fonctionnel,Dakar,Senegal
+73,Bouche incendie  ,100 mm,239363,1630226,Cite Elisabeth   DIOUF N 14,,Non Fonctionnel,Dakar,Senegal
+81,Bouche incendie  ,100 mm,235658,1628378,Sicap Liberté 3 villa 2103 ,derrière police Dieuppeul,Non Fonctionnel,Dakar,Senegal
+82,Bouche incendie  ,100 mm,236909,1628354,HLM 1 villa n°458 ,en face mosquée,Non Fonctionnel,Dakar,Senegal
+83,Bouche incendie  ,100 mm,236951,1627779,HLM 4 N°1293 ,en face alimentation générale de l’avenir,Non Fonctionnel,Dakar,Senegal
+84,Bouche incendie  ,100 mm,236636,1628332,HLM 2 N°637 ,en face immeuble Khady MBENGUE,Non Fonctionnel,Dakar,Senegal
+85,Bouche incendie  ,100 mm,236958,1628436,HLM 1 N°775 ,en face résidence CAMÄRA,Non Fonctionnel,Dakar,Senegal
+86,Bouche incendie  ,100 mm,236781,1628207,HLM 2 n°554 ,en face banque régionale du Sénégal,Non Fonctionnel,Dakar,Senegal
+87,Bouche incendie  ,100 mm,236697,1628327,HLM n°616,,Non Fonctionnel,Dakar,Senegal
+88,Bouche incendie  ,100 mm,236513,1628980,HLM n°32 bourguiba ,en face SENELEC,Non Fonctionnel,Dakar,Senegal
+89,Poteau incendie  ,100 mm,237027,1630776,Zone de captage ,en face école Franco Arabe,Non Fonctionnel,Dakar,Senegal
+90,Bouche incendie  ,100 mm,236374,1630838,Marché Grand Yoff ,en allant vers liberté 6 hauteur boutique SAMSUMG,Non Fonctionnel,Dakar,Senegal
+91,Bouche incendie  ,100 mm,236986,1633190,Unité 17 villa 001 ,au carrefour en face unité 20 et 16,Non Fonctionnel,Dakar,Senegal
+92,Bouche incendie  ,100 mm,238449,1634284,Cambérène 1 ,en face Khalif Général des Layennes hauteur Pharmacie Ahlou Lahi ,Non Fonctionnel,Dakar,Senegal
+93,Bouche incendie  ,100 mm,238962,1634372,Cambérène 2 ,en face cimetière hauteur Kanel Boutique ,Non Fonctionnel,Dakar,Senegal
+94,Bouche incendie  ,100 mm,237327,1633256,Unité 17 ,en face ONAS hauteur SDE,Non Fonctionnel,Dakar,Senegal
+95,Poteau incendie  ,100 mm,237072,1631333,Patte d’Oie Bulders, en face Mosquée Serigne Modou Boussou DIENG,Non Fonctionnel,Dakar,Senegal
