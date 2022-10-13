@@ -11,6 +11,9 @@ For Vector layers, Geopackage (.gpkg) and comma-separated values (.csv) formats 
 ### 2. Raster
 Geotif files are preffered.
 
+## Ajout de données SIG (open-source)
+Tout le monde en possession de données open-source peut les mettre à disposition du public à travers ce repertoire. Pour cela, il suffit juste de faire une Pull request avec les données aux formats demandés...
+
 ## External Sources
 ### 1. [Openstreetmap Geofabrik](https://download.geofabrik.de/)
 ### 2. [Natural Earth](https://www.naturalearthdata.com/downloads/)
